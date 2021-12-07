@@ -1,5 +1,5 @@
 # Ping-Pong-Score-Keeper
-Ping Pong score Keeper made by HTML, javascript and Bulma Framework to keep track of scores 
+Ping Pong score Keeper  is a application to keep track of scores  made by HTML, javascript and Bulma Framework 
 
 Try it here:
 
